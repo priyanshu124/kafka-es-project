@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-es-project'
+include 'wikimedia-kafka-producer'
+include 'untitled'
+include 'os-kafka-consumer'
+
